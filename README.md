@@ -27,12 +27,12 @@ If you want to see your calendar then you just have to use ```show``` command.
 If you want to quit the program just enter ```quit``` command.
 ***
 ### Calendar Saved
-When you used the quit command the program autromatically saved your calendar.  
+When you used the quit command the program automatically saved your calendar.  
 the next time you will run the program you will be able to view your own calnedar agin just by using the ```show ``` show command.
 ![save](screenshots/saved_calendar.png)
 ***
 If you are curious that how many functions are used to make this program then just dive deep into the code.
 *** Usage
 ```bash
-    python calendar.py
+    python Calendar.py
 ```
